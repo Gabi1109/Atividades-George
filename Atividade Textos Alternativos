@@ -1,0 +1,28 @@
+Texto- Transformando Mainframes em servidores de Rede
+
+1) Por que uma empresa desejaria converter seu mainframe em um servidor de rede? Quais os benefícios para a empresa?
+
+R= Uma empresa pode transformar seu mainframe em servidor de rede para aproveitar sua grande capacidade de processamento e segurança já disponíveis. Dessa forma, ela consegue atender muitos usuários ao mesmo tempo com alta confiabilidade, além de reduzir custos, pois utiliza a estrutura que já possui em vez de adquirir novos servidores.
+
+2)O que uma empresa precisa fazer para tornar seus bancos de dados e aplicações, baseados em computadores centrais, acessíveis a funcionários e clientes que possuem navegadores de rede?
+
+R= Para disponibilizar seus sistemas do mainframe na web, a empresa deve conectá-lo à rede corporativa e à internet, instalar ferramentas que permitam acesso por navegador e adaptar suas aplicações para funcionarem em ambiente web, garantindo que funcionários e clientes possam acessá-las remotamente.
+
+
+3) Quando uma empresa deve utilizar um mainframe como servidor de rede em lugar de recorrer exclusivamente a uma rede de servidores baseada em PCs?
+
+R= Essa opção é ideal quando a organização lida com grandes volumes de dados, precisa de alto desempenho contínuo e já possui um mainframe capaz de oferecer estabilidade e atender muitos usuários simultaneamente. Nesses casos, ele pode ser mais eficiente que uma rede formada apenas por PCs.  
+
+Texto – Alternativas ao Windows NT/2000
+
+1) Por que companhias como a Egghead e a EarthLink estão optando por executar suas aplicações empresariais em Unix ou outros sistemas operacionais em lugar do Windows NT, e em não esperar pelo Windows 2000?
+
+R= Essas empresas escolheram sistemas como Unix porque ele oferece maior estabilidade, segurança e desempenho para grandes operações, além de ser mais confiável para ambientes críticos. Também permite reduzir custos e evitar depender totalmente da Microsoft, já que na época o Windows NT e o Windows 2000 ainda tinham limitações.
+
+2) Por que a Aspect Telecommunications é capaz de comprar software aplicativo com base naquilo que faz para a empresa, e não com base em qual sistema operacional ele é executado?
+
+R= A Aspect pode escolher software pensando no que ele oferece para o negócio porque sua estrutura tecnológica é flexível e não depende de um único sistema operacional. Isso dá liberdade para selecionar as melhores soluções sem ficar presa a uma plataforma específica, garantindo mais eficiência e independência tecnológica.
+
+3) Que estratégias de negócios a Microsoft poderia adotar para recapturar o sucesso anterior do Windows NT? O que os concorrentes da Microsoft devem fazer para capitalizarem sua oportunidade atual de negócios?
+
+R= A Microsoft poderia focar em melhorar a estabilidade, segurança e desempenho do Windows, além de oferecer melhor suporte para empresas que desejam migrar para suas plataformas. Já os concorrentes podem aproveitar para destacar suas vantagens, como menor custo, confiabilidade e maturidade técnica atraindo empresas que precisam de sistemas mais estáveis e seguros para ambientes corporativos.
